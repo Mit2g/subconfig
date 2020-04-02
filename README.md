@@ -2,7 +2,7 @@
 Modified  subscription config
 ---
 ## 感谢
-**主要依附** 
+**主要依附**  
 该项目主要依附[tindy2013/subconverter](https://github.com/tindy2013/subconverter)
 
 **规则**  
