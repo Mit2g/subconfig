@@ -4,8 +4,7 @@ redir-port: 7892
 allow-lan: false
 mode: Rule
 log-level: silent
-external-controller: 127.0.0.1:9090
-external-ui: dashboard_Razord
+
 cfw-bypass:
   - qq.com
   - music.163.com
@@ -47,9 +46,9 @@ cfw-bypass:
 cfw-latency-timeout: 5000
 
 dns:
-  enable: false
-  listen: 127.0.0.1:5353
+  enable: true
   ipv6: false
+  listen: 127.0.0.1:5353
   enhanced-mode: fake-ip
   nameserver:
    - 119.29.29.29
