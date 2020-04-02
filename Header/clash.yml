@@ -6,22 +6,17 @@ mode: Rule
 log-level: silent
 
 cfw-bypass:
-  - qq.com
-  - music.163.com
-  - '*.music.126.net'
-  - *.taobao.com
-  - *.tmall.com
-  - *.alipay.com
-  - *.alicdn.com
-  - *.aliyun.com
-  - *.jd.com
-  - *.qq.com
-  - *.tencent.com
-  - *.weixin.com
-  - *.bilibili.com
-  - hdslb.com
-  - *.mi.com
-  - *.xiaomi.com
+  - '*.taobao.com'
+  - '*.tmall.com'
+  - '*.alipay.com'
+  - '*.alicdn.com'
+  - '*.aliyun.com'
+  - '*.jd.com'
+  - '*.qq.com'
+  - '*.tencent.com'
+  - '*.weixin.com'
+  - '*.bilibili.com'
+  - 'hdslb.com'
   - localhost
   - 127.*
   - 10.*
