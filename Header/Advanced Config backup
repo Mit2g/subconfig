@@ -1,0 +1,117 @@
+remoteConfig: [
+              {
+                label: "通用",
+                options: [
+                  {
+                    label: "默认",
+                    value: ""
+                  },
+                  {
+                    label: "无 Urltest",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/no_urltest.ini"
+                  },
+                  {
+                    label: "带 Urltest",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/urltest.ini"
+                  },
+                  {
+                    label: "ConnersHua 神机规则 Basic",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/connershua_basic.ini"
+                  },
+                  {
+                    label: "ConnersHua 神机规则 Pro",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/connershua_pro.ini"
+                  },
+                  {
+                    label: "lhie1 洞主规则（使用 Clash 分组规则）",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/lhie1_clash.ini"
+                  },
+                  {
+                    label: "ACL4SSR 规则标准版",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/acl4ssr_standard.ini"
+                  },
+                  {
+                    label: "ACL4SSR 规则 GFWList 版",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/acl4ssr_gfwlist.ini"
+                  },
+                  {
+                    label: "eHpo1 规则",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/ehpo1_main.ini"
+                  },
+                  {
+                    label: "rixCloud 官方规则",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/rixcloud_custom.ini"
+                  }
+                ]
+              },
+              {
+                label: "定制",
+                options: [
+                  {
+                    label: "Maying",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/maying_optimized.ini"
+                  },
+                  {
+                    label: "Nexitally",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/nexitally_optimized.ini"
+                  },
+                  {
+                    label: "贼船",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/zeichuan_optimized.ini"
+                  },
+                  {
+                    label: "N3RO",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/n3ro_optimized.ini"
+                  },
+                  {
+                    label: "Scholar",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/scholar_optimized.ini"
+                  },
+                  {
+                    label: "YToo",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/ytoo_optimized.ini"
+                  },
+                  {
+                    label: "DlerCloud Platinum 李哥定制规则",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/dlercloud_lige_platinum.ini"
+                  },
+                  {
+                    label: "DlerCloud Gold 李哥定制规则",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/dlercloud_lige_gold.ini"
+                  },
+                  {
+                    label: "DlerCloud Silver 李哥定制规则",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/dlercloud_lige_silver.ini"
+                  }
+                ]
+              },
+              {
+                label: "特殊",
+                options: [
+                  {
+                    label: "网易云解锁（仅规则分组）",
+                    value:
+                      "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/netease.ini"
+                  }
+                ]
+              }
+            ]
+          }
