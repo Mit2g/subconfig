@@ -44,13 +44,19 @@ dns:
   enable: true
   ipv6: false
   listen: 127.0.0.1:5353
-  enhanced-mode: fake-ip
+  enhanced-mode: redir-host
   nameserver:
    - 119.29.29.29
    - 114.114.114.114
    - 223.5.5.5
    - 8.8.8.8
    - 1.1.1.1
+cfw-child-process:
+  - command: clash-config-builder-server.exe
+    options:
+    # 请配合 https://github.com/Fndroid/clash-config-builder 项目使用
+    # 本处仅作配置预留 以便开启
+    # cwd: C:\ # clash-config-builder-server.exe所在目录
 
 Proxy: ~
 Proxy Group: ~
