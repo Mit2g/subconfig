@@ -1,25 +1,57 @@
-目前好用的广告过滤规则还是有很多的，它们都针对不同的用途。下面推荐一些比较常用的：
+# 题外话-Adguard规则
 
-anti-AD v4
+看了很多乱七八糟的文章、帖子 应该总结一个较为实用的 以便使用和维护
+(理论也可用于Adblock类扩展
+__请择规则而用 过多规则拖慢网页打开速度__
 
-链接:https://gitee.com/privacy-protection-tools/anti-ad/raw/master/easylist.txt
+## default Rules
 
-neohosts
+AdGuard Simplified Domain
+> https://adguardteam.github.io/AdGuard
 
-链接:https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt
-EasyList China : 国内网站广告过滤的主规则。
+Adaway
+> https://adaway.org/hosts.txt
 
-链接：https://easylist-downloads.adblockplus.org/easylistchina.txt
-EasyList Lite
+hpHosts
+> https://hosts-file.net/ad_servers.txt
+(大陆电信似乎连接性不好？
 
-链接: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
-EasyPrivacy : EasyPrivacy 是隐私保护，不被跟踪。
+MalwareDomainList
+> https://www.malwaredomainlist.com
 
-链接：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-CJX’s Annoyance List : 过滤烦人的自我推广，并补充 EasyPrivacy 隐私规则。
+EasyList merges with Fanboy's List
+> https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 
-链接：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-I don’t care about cookies : 我不关心 Cookie 的问题，屏蔽网站的 cookies 相关的警告。
+## Domestic Rules
+CJX List
+> [https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt]
+> https://raw.githubusercontent.com//cjxlist/master/cjx-annoyance.txt
 
-链接：https://www.i-dont-care-about-cookies.eu/abp/
+[anti-ad](https://gitee.com/privacy-protection-tools/anti-ad)
+> https://gitee.com/privacy-protection-tools/anti-ad/raw/master/easylist.txt
+
+[My Adfilter](https://gitee.com/halflife/list/)
+> https://gitee.com/halflife/list/raw/master/ad.txt
+
+[乘风](https://gitee.com/xinggsf/Adblock-Rule/)
+>广告规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+>视频规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+[yhosts]((https://github.com/vokins/yhosts))
+> https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+
+[banbendalao](https://gitee.com/banbendalao/adguard/tree/master)
+> https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
+
+[大圣净化](https://github.com/jdlingyu/ad-wars)
+>  https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+[neohosts](https://github.com/neoFelhz/neohosts/blob/data/README.md)
+> https://hosts.nfz.moe/full/hosts
+
+## Foreign Rules
+EasyList
+> https://easylist.to/easylist.txt
+
+i-dont-care-about-cookies
+> https://www.i-dont-care-about-cookies.eu/abp/
 
