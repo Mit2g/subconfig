@@ -36,6 +36,7 @@ EasyList merges with Fanboy's List
 [乘风](https://gitee.com/xinggsf/Adblock-Rule/)
 >广告规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt  
 >视频规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+
 [yhosts]((https://github.com/vokins/yhosts))
 > https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 
