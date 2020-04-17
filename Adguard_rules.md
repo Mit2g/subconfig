@@ -1,7 +1,7 @@
 # 题外话-Adguard规则
 
-看了很多乱七八糟的文章、帖子 应该总结一个较为实用的 以便使用和维护
-(理论也可用于Adblock类扩展
+看了很多乱七八糟的文章、帖子,应该总结一个较为实用的,以便使用和维护  
+(理论也可用于Adblock类扩展  
 __请择规则而用 过多规则拖慢网页打开速度__
 
 ## default Rules
@@ -23,9 +23,9 @@ EasyList merges with Fanboy's List
 > https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 
 ## Domestic Rules
-CJX List
-> [https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt]
-> https://raw.githubusercontent.com//cjxlist/master/cjx-annoyance.txt
+[CJX List](https://github.com/cjx82630/cjxlist)
+> EasyList Lite：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+> Annoyance List：https://raw.githubusercontent.com//cjxlist/master/cjx-annoyance.txt
 
 [anti-ad](https://gitee.com/privacy-protection-tools/anti-ad)
 > https://gitee.com/privacy-protection-tools/anti-ad/raw/master/easylist.txt
