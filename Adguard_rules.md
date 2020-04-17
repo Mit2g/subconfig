@@ -24,7 +24,7 @@ EasyList merges with Fanboy's List
 
 ## Domestic Rules
 [CJX List](https://github.com/cjx82630/cjxlist)
-> EasyList Lite：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+> EasyList Lite：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt  
 > Annoyance List：https://raw.githubusercontent.com//cjxlist/master/cjx-annoyance.txt
 
 [anti-ad](https://gitee.com/privacy-protection-tools/anti-ad)
@@ -34,7 +34,7 @@ EasyList merges with Fanboy's List
 > https://gitee.com/halflife/list/raw/master/ad.txt
 
 [乘风](https://gitee.com/xinggsf/Adblock-Rule/)
->广告规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+>广告规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt  
 >视频规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
 [yhosts]((https://github.com/vokins/yhosts))
 > https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
