@@ -1,6 +1,6 @@
 # 题外话-Adguard规则
 
-看了很多乱七八糟的文章、帖子,应该总结一个较为实用的,以便使用和维护  
+看了很多乱七八糟的文章、帖子,应该总结一个较为实用的,以便使用  
 (理论也可用于Adblock类扩展  
 __请择规则而用 过多规则拖慢网页打开速度__
 
@@ -37,7 +37,7 @@ EasyList merges with Fanboy's List
 >广告规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt  
 >视频规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
 
-[yhosts]((https://github.com/vokins/yhosts))
+[yhosts](https://github.com/vokins/yhosts)
 > https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 
 [banbendalao](https://gitee.com/banbendalao/adguard/tree/master)
