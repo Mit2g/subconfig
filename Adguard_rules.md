@@ -48,6 +48,10 @@ EasyList merges with Fanboy's List
 
 [neohosts](https://github.com/neoFelhz/neohosts/blob/data/README.md)
 > https://hosts.nfz.moe/full/hosts
+> https://hosts.nfz.moe/127.0.0.1/full/hosts
+
+[大圣净化](https://github.com/E7KMbb/AD-hosts)
+https://raw.githubusercontent.com/E7KMbb/AD-hosts/17000/system/etc/hosts
 
 ## Foreign Rules
 EasyList
